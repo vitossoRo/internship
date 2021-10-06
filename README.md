@@ -10,7 +10,7 @@ This is the first implementation of internship project by EBS Integrator
 4. python manage.py createsuperuser
 5. enjoy!)
 
-# To test API it's recommented to install Postman aplication
+# To test API it's recommended to install Postman aplication
 # Before you would like to test API, you should register first.
 # After that you should log in under admin account on localhost to get your Authentithication Token, which is required to test API
 
